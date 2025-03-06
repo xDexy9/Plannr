@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plannr/static/css/main.03f440bb.css",
+    "main.js": "/Plannr/static/js/main.42c485f4.js",
+    "index.html": "/Plannr/index.html",
+    "main.03f440bb.css.map": "/Plannr/static/css/main.03f440bb.css.map",
+    "main.42c485f4.js.map": "/Plannr/static/js/main.42c485f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03f440bb.css",
+    "static/js/main.42c485f4.js"
+  ]
+}
