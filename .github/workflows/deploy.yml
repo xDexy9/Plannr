@@ -26,7 +26,7 @@ jobs:
       - name: Build
         env:
           CI: false
-        run: npm run build
+        run: npx react-scripts build
 
       - name: Create .nojekyll file
         run: touch build/.nojekyll
