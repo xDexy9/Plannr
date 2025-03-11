@@ -201,10 +201,10 @@ const Settings: React.FC = () => {
         <div className="space-y-2">
           <p className="text-sm text-justify">Plannr is a simple yet powerful task management app designed to help you stay on top of daily chores and personal goals. What began as a way to track household tasks has evolved into a dynamic tool for building habits, staying organized, and boosting productivity—whether for personal use or to help others.</p>
           <p className="text-sm">Made with ❤️ by <span className="text-black font-bold">xDexy</span></p>
-          <p className="text-sm">Version: 1.0.0 (Beta)</p>
+          <p className="text-sm">Version: 1.0.0 (Beta) A New And Improved Version Of Plannr Will Be Available Soon</p>
           <p className="text-sm">
             <a 
-              href="https://github.com/yourusername/plannr" 
+              href="https://github.com/xDexy9/Plannr/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-primary-light dark:text-primary-dark hover:underline"
